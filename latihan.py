@@ -51,5 +51,4 @@ if __name__=="__main__":
 
 
 
-# MALAM INI SAYA MAU BACA DOANG 
-# GAK CODING
+# udah dulu ya malam ini
